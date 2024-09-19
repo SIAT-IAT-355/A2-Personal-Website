@@ -52,7 +52,7 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
      ```
 
 3. **Content for the Website:**
-   - **`index.html`:** This file should be the homepage of your website. Include content similar to what you would include in your resume:
+   - **`index.html`:** This file should be the homepage of your website. Include content similar to what you would include in your resume, but add your own flavor. You can include the folowing:
      - **Personal introduction**: Your name, major, and a brief description of your interests.
      - **Education**: List your current and previous educational institutions and any relevant courses.
      - **Skills**: Highlight technical skills such as programming languages, software tools, etc.
@@ -65,8 +65,11 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
    - **`main.js`:** This file is mandatory and should be used for adding basic JavaScript interactivity (e.g., form validation, interactive elements).
    - **`README.md`:** This file should explain the purpose of the website, including what technologies are used and how the site can be navigated.
 
-4. **assignment requirements**:
-  - You should use many different elements, and apply your design skills to make it look interesting!
+4. **assignment content**:
+  - A personal webpage
+  - A visualization page with two visualizations:
+       - one svg version of the visualization you created in class last time. Doesn't need to be accurate.
+       - Some SVG art with code. Anything.
   - You should organize the information in the website coherently and cleraly.
 
 ### Additional Recommendations
