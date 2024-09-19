@@ -68,7 +68,6 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 4. **assignment requirements**:
   - You should use many different elements, and apply your design skills to make it look interesting!
   - You should organize the information in the website coherently and cleraly.
-  - 
 
 ### Additional Recommendations
 
