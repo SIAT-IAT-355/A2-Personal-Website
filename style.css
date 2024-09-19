@@ -15,5 +15,11 @@ header {
 
 main {
     padding: 2rem;
-    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+svg {
+    border: solid lightgrey;
 }
