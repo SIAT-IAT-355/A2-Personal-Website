@@ -110,3 +110,9 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 - Keep your code clean and organized, and make frequent commits to track your progress!
 - We will work on this together in class.
 
+---
+
+## Learning resources:
+-  For git, I highly recommend watching [Git and Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+-  For Javascript, I highly recommend this online course [Code! Programming with p5.js for beginners)[https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA]. This course is designed for artists, and will introduce you to a library that you can do a lot of cool stuff with!
+-  No one really fully knows HTML and CSS. You are going to have to search and look up stuff. However, you can refer to (CSS)[https://www.w3schools.com/css/] and , and (HTML)[https://www.w3schools.com/html/default.asp] tutorials. Definitely look up stackoverflow, and ask questions from your AI assistant to learn how to do things. But **LEARN** from it. Do not just copy and paste.
