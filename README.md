@@ -21,27 +21,27 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 3. **Create a GitHub Account:**
    - If you don’t already have a GitHub account, create one [here](https://github.com/). It’s free and required for submitting your project.
 
-4. **Authenticate GitHub with Git:**
+4. **Create a repository for your personal website:**
+   - You should use the name `yourusername.github.io` this way when you type yourusername.github.io in your browser, it will show up as a website. Pretty cool.
+
+5. **Authenticate GitHub with Git:**
+   Now you need to access your repository on your personal computer.
    - For security, GitHub now uses personal access tokens instead of passwords. To authenticate:
      - Go to your [GitHub account settings](https://github.com/settings/tokens) and generate a new Personal Access Token.
      - When prompted by Git to enter your credentials while pushing code, use this token instead of your GitHub password.
      - You can also set up [SSH authentication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) if you prefer.
 
 5. **Clone Your Repository Locally:**
-   - Once your repository is set up on GitHub, use Git to clone it to your local machine:
+   - Once your repository is set up on GitHub, and you have authenticated, use Git to clone it to your local machine:
      ```bash
-     git clone https://github.com/YourUsername/A2-Personal-Website.git
+     git clone https://github.com/YourUsername/YourUsername.github.io
      ```
+     My personal website is at `https://github.com/alireza116/alireza116.github.io`
    - This will create a local copy of your repository where you can build and edit your website files.
 
 ### Creating Your Website
 
-1. **Create a GitHub Repository:**
-   - Name the repository **`A2-Personal-Website`**.
-   - Ensure the repository is public and initialized with a `README.md` file.
-   - This repository will contain all the files necessary for your personal website.
-
-2. **Website Structure:**
+1. **Website Structure:**
    - Your website should have the following structure:
      ```
      A2-Personal-Website/
@@ -57,11 +57,18 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
      - **Education**: List your current and previous educational institutions and any relevant courses.
      - **Skills**: Highlight technical skills such as programming languages, software tools, etc.
      - **Experience**: Include work experience, internships, or relevant projects.
+     - **A few images**: Include examples of images that would represent you.
      - **Contact information**: Provide a way for people to contact you, such as an email or LinkedIn profile.
      - A link to your GitHub profile or any other relevant portfolios.
+  - **`visualizations.html`** this will be a new page where you can start putting your visualization portfolio in. You will create a visualization using SVG and put it in the site. 
    - **`style.css`:** This file should handle the styling of your webpage. Use CSS to make your website look clean and professional.
    - **`main.js`:** This file is mandatory and should be used for adding basic JavaScript interactivity (e.g., form validation, interactive elements).
    - **`README.md`:** This file should explain the purpose of the website, including what technologies are used and how the site can be navigated.
+
+4. **assignment requirements**:
+  - You should use many different elements, and apply your design skills to make it look interesting!
+  - You should organize the information in the website coherently and cleraly.
+  - 
 
 ### Additional Recommendations
 
@@ -85,7 +92,7 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 ### Submission Instructions
 
 1. **Submit the GitHub Repository Link:**
-   - Upload the link to your GitHub repository to the **Assignment 2** submission page on Canvas.
+   - Upload the link to your GitHub repository and your personal website to the **Assignment 2** submission page on Canvas.
 
 2. **Ensure Proper Formatting:**
    - Check that your files are named and structured as follows:
@@ -101,7 +108,5 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 - Experiment with different styling options to enhance the look and feel of your website.
 - If you’re new to GitHub and Git, use this [GitHub guide](https://docs.github.com/en/get-started/quickstart/set-up-git) for step-by-step instructions on how to set everything up.
 - Keep your code clean and organized, and make frequent commits to track your progress!
+- We will work on this together in class.
 
----
-
-This assignment is designed to help you learn how to create a personal website with a focus on simple web development tools and practices. The content you include should reflect key information from your resume to showcase your skills, education, and experience.
