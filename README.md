@@ -2,13 +2,13 @@
 **Due Date:** September 26th, 11:59 PM
 
 ## Objective
-In this assignment, you will create a personal website using HTML, CSS, and JavaScript. The goal is to build a professional online presence that includes content similar to what you would include in your resume. This website will serve as a portfolio to showcase your skills, education, experience, and interests, while helping you get comfortable with front-end web development and version control using GitHub.
+In this assignment, you will create a personal website using HTML, CSS, and JavaScript. The goal is to build a professional online presence that includes content similar to what you would include in your resume. This website will serve as a portfolio to showcase your skills, education, experience, and interests while helping you get comfortable with front-end web development and version control using GitHub.
 
 ## Instructions
 
 ### Getting Started with Git and GitHub 
 
-**This part was done in class Just make sure that you got it working when you make edits**
+**This part was done in class. Just make sure that you got it working when you make edits.**
 
 1. **Install Git:**
    - Download and install Git on your computer. Follow the installation instructions for your operating system [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
@@ -24,7 +24,7 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
    - If you don’t already have a GitHub account, create one [here](https://github.com/). It’s free and required for submitting your project.
 
 4. **Create a repository for your personal website:**
-   - You should use the name `yourusername.github.io` this way when you type yourusername.github.io in your browser, it will show up as a website. Pretty cool.
+   - You should name the repository `yourusername.github.io` so that when you type `yourusername.github.io` in your browser, it will display as a website. Pretty cool.
 
 5. **Authenticate GitHub with Git:**
    Now you need to access your repository on your personal computer.
@@ -38,44 +38,47 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
      ```bash
      git clone https://github.com/YourUsername/YourUsername.github.io
      ```
-     My personal website is at `https://github.com/alireza116/alireza116.github.io`
+     Example: My personal website is at `https://github.com/alireza116/alireza116.github.io`
    - This will create a local copy of your repository where you can build and edit your website files.
 
 ### Creating Your Website
 
 1. **Website Structure:**
    - Your website should have the following structure:
-     ```
+     ```bash
      A2-Personal-Website/
      ├── index.html
-     ├── visualization.html
+     ├── visualizations.html
      ├── style.css
      ├── main.js
      ├── vis.js
      └── README.md
      ```
 
-3. **Content for the Website:**
-   - **`index.html`:** This file should be the homepage of your website. Include content similar to what you would include in your resume, but add your own flavor. You can include the folowing:
+2. **Content for the Website:**
+   - **`index.html`:** This file should be the homepage of your website. It should include content similar to what you would include in your resume, but feel free to add your own flair. You can include the following:
      - **Personal introduction**: Your name, major, and a brief description of your interests.
      - **Education**: List your current and previous educational institutions and any relevant courses.
      - **Skills**: Highlight technical skills such as programming languages, software tools, etc.
      - **Experience**: Include work experience, internships, or relevant projects.
-     - **A few images**: Include examples of images that would represent you.
+     - **Images**: Include images that represent you or your work.
      - **Contact information**: Provide a way for people to contact you, such as an email or LinkedIn profile.
      - A link to your GitHub profile or any other relevant portfolios.
    - **`style.css`:** This file should handle the styling of your webpage. Use CSS to make your website look clean and professional.
-   - **`main.js`:** This file is mandatory and should be used for adding basic JavaScript interactivity (e.g., form validation, interactive elements).
+   - **`main.js`:** This file is mandatory and should be used for adding basic JavaScript interactivity (e.g., form validation or simple interactions).
+   - **`visualizations.html`:** Create a new page where you can display your visualization portfolio. You will include:
+       - One SVG version of the visualization you created in class (it doesn't have to be exact).
+       - Some creative SVG art using code.
+   - **`vis.js`:** This file will contain the code for generating SVG drawings (similar to the example in `lewitt.html`).
    - **`README.md`:** This file should explain the purpose of the website, including what technologies are used and how the site can be navigated.
-   - **`visualizations.html:`** this will be a new page where you can start putting your visualization portfolio in. You will create a visualization using SVG and put it in the site.
-   - **`vis.js:`**: code for generating an SVG drawing (see lewitt.html for example)
 
-4. **assignment content**:
-  - A personal webpage
+
+3. **Assignment Content**:
+  - A personal webpage.
   - A visualization page with two visualizations:
-       - one svg version of the visualization you created in class last time. Doesn't need to be accurate.
-       - Some SVG art with code. Anything.
-  - You should organize the information in the website coherently and cleraly.
+    - One SVG version of the class visualization.
+    - Any creative SVG art.
+  - You should organize the information in the website coherently and clearly.
 
 ### Additional Recommendations
 
@@ -85,17 +88,19 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 ### Steps to Complete the Assignment:
 
 1. **Create and Edit Your Files Locally:**
-   - Create the `index.html`, `style.css`, and `main.js` files in your cloned repository.
-   - Make edits locally on your machine using any text editor (Visual Studio Code).
+   - Create the `index.html`, `visualizations.html`, `style.css`, `main.js`, and `vis.js` files in your cloned repository.
+   - Use a code editor like Visual Studio Code to make the necessary changes.
+
 
 2. **Commit and Push Your Changes to GitHub:**
-   - After making changes, commit them with Git and push them to GitHub:
+   - After making changes, commit and push them to GitHub:
      ```bash
      git add .
-     git commit -m "Add initial website files"
+     git commit -m "Add website and visualization files"
      git push origin main
      ```
-   - You can use VSCode to pushing and commiting and skip this part. 
+     
+   - If you're using Visual Studio Code, you can commit and push directly from the interface.
 
 ### Submission Instructions
 
@@ -103,14 +108,13 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
    - Upload the link to your GitHub repository and your personal website to the **Assignment 2** submission page on Canvas.
 
 2. **Ensure Proper Formatting:**
-   - Check that your files are named and structured as follows:
+   - Ensure that your files are named and structured as follows:
      - **`index.html`**
+     - **`visualizations.html`**
      - **`style.css`**
      - **`main.js`**
      - **`vis.js`**
-     - **`visualizations.html`**
      - **`README.md`**
-
 ---
 
 ## Tips:
