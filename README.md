@@ -6,7 +6,9 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 
 ## Instructions
 
-### Getting Started with Git and GitHub
+### Getting Started with Git and GitHub 
+
+**This part was done in class Just make sure that you got it working when you make edits**
 
 1. **Install Git:**
    - Download and install Git on your computer. Follow the installation instructions for your operating system [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
@@ -46,8 +48,10 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
      ```
      A2-Personal-Website/
      ├── index.html
+     ├── visualization.html
      ├── style.css
      ├── main.js
+     ├── vis.js
      └── README.md
      ```
 
@@ -60,10 +64,11 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
      - **A few images**: Include examples of images that would represent you.
      - **Contact information**: Provide a way for people to contact you, such as an email or LinkedIn profile.
      - A link to your GitHub profile or any other relevant portfolios.
-  - **`visualizations.html`** this will be a new page where you can start putting your visualization portfolio in. You will create a visualization using SVG and put it in the site. 
    - **`style.css`:** This file should handle the styling of your webpage. Use CSS to make your website look clean and professional.
    - **`main.js`:** This file is mandatory and should be used for adding basic JavaScript interactivity (e.g., form validation, interactive elements).
    - **`README.md`:** This file should explain the purpose of the website, including what technologies are used and how the site can be navigated.
+   - **`visualizations.html:`** this will be a new page where you can start putting your visualization portfolio in. You will create a visualization using SVG and put it in the site.
+   - **`vis.js:`**: code for generating an SVG drawing (see lewitt.html for example)
 
 4. **assignment content**:
   - A personal webpage
@@ -81,7 +86,7 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 
 1. **Create and Edit Your Files Locally:**
    - Create the `index.html`, `style.css`, and `main.js` files in your cloned repository.
-   - Make edits locally on your machine using any text editor (such as Visual Studio Code, Sublime Text, etc.).
+   - Make edits locally on your machine using any text editor (Visual Studio Code).
 
 2. **Commit and Push Your Changes to GitHub:**
    - After making changes, commit them with Git and push them to GitHub:
@@ -90,6 +95,7 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
      git commit -m "Add initial website files"
      git push origin main
      ```
+   - You can use VSCode to pushing and commiting and skip this part. 
 
 ### Submission Instructions
 
@@ -101,6 +107,8 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
      - **`index.html`**
      - **`style.css`**
      - **`main.js`**
+     - **`vis.js`**
+     - **`visualizations.html`**
      - **`README.md`**
 
 ---
