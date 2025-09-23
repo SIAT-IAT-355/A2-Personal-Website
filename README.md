@@ -135,6 +135,7 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
 - If you’re new to GitHub and Git, use this [GitHub guide](https://docs.github.com/en/get-started/quickstart/set-up-git) for step-by-step instructions on how to set everything up.
 - Keep your code clean and organized, and make frequent commits to track your progress!
 - We will work on this together in class.
+- [This link](https://github.com/SIAT-IAT-355/A2-Personal-Website/tree/main/22-sep-lab-example) contains the example Alireza walked you through in the lab session. You may use it as a beginning point.
 
 ---
 
