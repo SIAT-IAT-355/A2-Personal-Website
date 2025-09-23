@@ -91,15 +91,16 @@ In this assignment, you will create a personal website using HTML, CSS, and Java
    - **`style.css`:** This file should handle the styling of your webpage. Use CSS to make your website look clean and professional.
    - **`main.js`:** This file is mandatory and should be used for adding basic JavaScript interactivity (e.g., form validation or simple interactions).
    - **`visualizations.html`:** Create a new page where you can display your visualization portfolio. You will include:
-       - One SVG version of the visualization you created in class (it doesn't have to be exact).
-       - Some creative SVG art using code.
-   - **`vis.js`:** This file will contain the code for generating SVG drawings (similar to the example in `lewitt.html`).
+       - One SVG version of the visualization you have chosen. You choose what to visualize; you'll get an extra score if you are creative (you may use the sketch diagram we asked for in the first session it's up to you).
+       - Some creative SVG art using JS.
+       - **JUST PUT YOUR VISUALIZATIONS ON THIS PAGE. USE JS FOR CREATING VISUALIZATIONS.**
+   - **`vis.js`:** This file will contain the code for generating SVG drawings and visualization.
    - **`README.md`:** This file should explain the purpose of the website, including what technologies are used and how the site can be navigated.
 
 3. **Expected Elements**:
   - A personal webpage.
   - A visualization page with two visualizations:
-    - One SVG version of the class visualization.
+    - One SVG visualization.
     - Any creative SVG art.
   - You should organize the information on the website coherently and clearly.
 
