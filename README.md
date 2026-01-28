@@ -1,5 +1,5 @@
 # Assignment 2: Create a Personal Website
-**Due Date:** September 29th, 11:55 PM
+**Due Date:** February 3rd, 11:55 PM
 
 ## Objective
 In this assignment, you will create a personal website using HTML, CSS, and JavaScript. The goal is to build a professional online presence that includes content similar to what you would include in your resume. This website will serve as a portfolio to showcase your skills, education, experience, and interests while helping you get comfortable with front-end web development and version control using GitHub.
